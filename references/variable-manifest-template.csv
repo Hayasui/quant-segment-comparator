@@ -1,0 +1,3 @@
+variable_id,question,item_label,variable_type,eligible_expression,positive_value,analysis_family,include_primary,notes
+example_binary,Q1,选择某项,binary,"eligible == 1",1,primary,1,条件出示规则写清楚
+example_ordinal,Q2,满意度,ordinal,"eligible == 1",,secondary,1,值越大是否越正向
